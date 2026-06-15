@@ -1,7 +1,8 @@
-## Hi there 👋
-
 <!--
 **sara-lu-git/sara-lu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Sara Lu
+**I'm just getting started with AI.**
 
 Here are some ideas to get you started:
 
