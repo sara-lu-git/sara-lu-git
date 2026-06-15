@@ -1,8 +1,12 @@
 <!--
-**sara-lu-git/sara-lu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sara-lu-git/sara-lu-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Sara Lu
 **I'm just getting started with AI.**
+
+> **Building System, not just feature.**  
+> Wanted to be AI-Native Engingeer · Context Engineering· Context Creater  
+
 
 Here are some ideas to get you started:
 
